@@ -1,1 +1,1 @@
-# Medicine_chatbot
+# drug_chatbot
