@@ -59,3 +59,7 @@ LangChain + OpenAI 기반 약물 복용 및 부작용 상담 챗봇
 
 ⚠️ 주의: 이는 의료진의 진단을 대체할 수 없습니다.
 ```
+
+---
+### 발표 자료
+- https://drive.google.com/file/d/1rxvm9Cas3rT-ULSCDUQyVDvHkTmTFsY8/view?usp=sharing
